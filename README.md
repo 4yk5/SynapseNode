@@ -2,7 +2,6 @@
 
 > Web browsing, reinvented. An offline-first, AI-free, ultra-fast browser assistant for power users.
 
-![SynapseNode Logo](icons/icon128.png)
 
 ## 📌 Overview
 **SynapseNode** is a minimalist, high-performance Chrome extension designed for developers and power users who demand speed and efficiency. It eliminates the friction of web navigation by providing a context-aware, "slate-sapphire" UI that summarizes, searches, and manages web content locally.
