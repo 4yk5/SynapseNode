@@ -1,16 +1,20 @@
 {
   "manifest_version": 3,
-  "name": "Context-Aware Action Drawer",
+  "name": "SynapseNode",
   "version": "1.1.0",
-  "description": "Sleek slate-sapphire & neon-cyan action drawer to Quick Search, Simplify, and Fast Pin web content.",
+  "description": "An offline-first, AI-free, ultra-fast browser assistant to manage web content.",
   "permissions": [
     "tabs",
     "storage"
   ],
+  "icons": {
+    "128": "icons/icon128.png"
+  },
   "background": {
     "service_worker": "background.js"
   },
   "action": {
+    "default_icon": "icons/icon128.png",
     "default_popup": "popup.html"
   },
   "content_scripts": [
