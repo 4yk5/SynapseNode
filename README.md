@@ -53,5 +53,9 @@ Built by developers, for developers.
 
 ---
 
+## ⚡ Ecosystem
+**SynapseNode** is proud to be part of the **Terenax** ecosystem—a collective dedicated to high-performance, minimalist, and offline-first software solutions. Built with the same rigorous standards of speed, privacy, and architectural precision that define all Terenax projects.
+
+---
 ## ⚖️ License
 MIT License - Feel free to fork, modify, and integrate.
